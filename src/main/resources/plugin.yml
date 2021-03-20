@@ -1,0 +1,4 @@
+name: Boom
+version: ${project.version}
+main: de.thepaulcraft.boom.Boom
+api-version: 1.16
